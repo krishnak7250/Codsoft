@@ -1,3 +1,0 @@
-# codsoft
-
-Landing page
